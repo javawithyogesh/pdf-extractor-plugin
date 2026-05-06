@@ -8,6 +8,10 @@ A lightweight Chrome Extension that allows users to upload multiple PDF files an
 - **Client-Side Processing:** All PDF manipulation happens in your browser using `pdf-lib`. No files are uploaded to a server, ensuring privacy.
 - **Auto-Merge:** Automatically combines the extracted pages into a single output file.
 
+(New Features):
+- **Flexible Output:** Toggle between merging all extracted pages into one file or saving them as individual PDFs.  
+- **Smart Naming:** Individual files are automatically prefixed with the page number and original filename for easy organization.
+
 ## Installation
 
 1. **Clone or Download** this repository to your local machine.
